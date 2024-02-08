@@ -1,6 +1,0 @@
-telebot
-requests
-flask
-pyTelegramBotAPI
-multiprocessing
-datetime
