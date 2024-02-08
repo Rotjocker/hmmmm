@@ -1,0 +1,6 @@
+telebot
+requests
+flask
+pyTelegramBotAPI
+subprocess
+datetime
